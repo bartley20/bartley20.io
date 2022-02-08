@@ -6,7 +6,7 @@
     "dev": "bartley20",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "main -d dist"
   },
   "devDependencies": {
     "vite": "^2.7.2"
