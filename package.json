@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "bartley20",
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
