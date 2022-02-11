@@ -1,9 +1,7 @@
-# Personal Portfolio
-This repository contains the code for my personal portfolio website.
+# ThreeJS Project
+This repository contains the code for a small ThreeJS project to get familiar with the library and its uses.
 
 Built using:
 Node.js
 Three.js
 Vitejs
-
-[Link](https://bartley20.github.io)
